@@ -1,0 +1,8 @@
+fastapi>=0.100
+uvicorn>=0.22
+qrcode>=7.4
+pillow>=10.0
+pytest>=8.0
+httpx>=0.24
+# Telegram wiring (you add token, not committed):
+# python-telegram-bot>=20.0
